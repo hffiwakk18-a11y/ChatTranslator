@@ -1,2 +1,2 @@
-#ChatTranslator
+# ChatTranslator
 日本人向けのHuman Fall Flatのチャット翻訳Modです。HomeでWindowが表示され、翻訳を有効にするか無効にするか選択できます。チャットに日本語が入っていたらそのチャットは翻訳されません。また、稀に翻訳されなかったり翻訳されない人がいます。
