@@ -1,4 +1,2 @@
-# Human-Fall-Flat 自作Mod
-これがどういう自作Modなのかを見るにはGithubでModのファイルを開き、Open Commit Details（コミットの詳細を開く）を押したら出てきます。またファイルの修正なども入ってきたり新しいものを作ったら追加して投稿します。  
-#  作成したMod
-### ・ChatTranslator
+#ChatTranslator
+日本人向けのHuman Fall Flatのチャット翻訳Modです。HomeでWindowが表示され、翻訳を有効にするか無効にするか選択できます。チャットに日本語が入っていたらそのチャットは翻訳されません。また、稀に翻訳されなかったり翻訳されない人がいます。
